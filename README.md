@@ -49,7 +49,7 @@ It is not intended as a portfolio of production software or client deliverables.
 
 Engineering Partners Inc. (EPI) is a women-owned engineering consulting firm specializing in utility infrastructure and industrial power system projects.
 
-https://engineeringpartners.com/
+https://engineeringpartners.com/  
 https://github.com/Engineering-Partners-Inc
 
 ---
